@@ -1,6 +1,5 @@
 def fizzbuzz(number)
-  input = number.to_i
-  if input % 3 == 0
+  if number % 3 == 0
     puts "Fizz"
   end
 end
