@@ -1,6 +1,6 @@
-def fizzbuzz(number)
+def fizzbuzz(int)
   if number % 3 == 0
-    puts "Fizz"
+    "Fizz"
   end
 end
 fizzbuzz(9)
