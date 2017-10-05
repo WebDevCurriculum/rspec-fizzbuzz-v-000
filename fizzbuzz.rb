@@ -4,10 +4,6 @@ if num % 3 == 0
     "Fizz"
 elsif num % 5 == 0
     "Buzz"
-  end
-end
-=begin
-
 elsif num % 5 == 0
     "Buzz"
   end
