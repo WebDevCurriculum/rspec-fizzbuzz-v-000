@@ -3,3 +3,4 @@ def fizzbuzz(number)
     return "Fizz"
   end
 end
+fizzbuzz(3)
