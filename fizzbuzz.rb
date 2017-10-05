@@ -1,1 +1,3 @@
-fdks;f
+def fizzbuzz(number) 
+
+end 
